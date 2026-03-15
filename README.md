@@ -1,7 +1,11 @@
 <h1 align="center">Frankie Okoth</h1>
 <p align="center"><i>I design code with purpose, build tools with empathy, and engineer systems that last.</i></p>
 
----
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/frankieokoth/frankieokoth/main/waneella-pixel-art.gif" width="498"/>
+</p>
 
 I'm a software engineer based in Nairobi, Kenyafocused on backend systems and scalable software architecture.
 
