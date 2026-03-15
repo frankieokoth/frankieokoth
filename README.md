@@ -3,55 +3,46 @@
 
 ---
 
+I'm a software engineer based in Nairobi, Kenyafocused on backend systems and scalable software architecture.
+
+I approach software with both a creator's mindset and an engineer's discipline, solving real problems through thoughtful design, structured logic, and practical implementation.
+
 ### 🧠 About Me
 
-I'm a software engineer based in Nairobi, Kenya — building systems at the intersection of **Android**, **AI**, and **backend architecture**. I care deeply about writing clean, intentional code that solves real-world problems, scales gracefully, and respects the user experience.
+My work centers on building reliable backend services, writing clean code, and understanding how thoughtful architecture supports long-term scalability and maintainability.
 
-My work combines logic, design thinking, and long-term impact. I believe code should be as thoughtful as it is functional.
+Right now I'm focused on building systems, refining how I think about software design and improving the way I structure and maintain code over time.
+
 
 ---
 
 ### 🚀 Current Focus
 
-- 📱 Crafting modern Android apps with **Jetpack Compose**, **MVVM**, and **Firebase**
-- 🧠 Exploring AI systems with **Python**, **Scikit-learn**, and **Prompt Engineering**
-- 🛠️ Studying architecture for scalable backend tools (REST APIs, Django, PostgreSQL)
+- 🛠️ Building backend services with **Django**, **REST APIs**, and **PostgreSQL**
+- ⚙️ Improving software architecture, debugging and clean code practices
+- 🧠 Exploring applied AI concepts with Python
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages & Logic**  
-`Kotlin` · `Java` · `Python` · `JavaScript` 
-
-**Mobile & UI**  
-`Android SDK` · `Jetpack Compose` · `MVVM` · `Coroutines` · `Hilt`
+**Languages**  
+`Python` · `C++` · `JavaScript` · `SQL` 
 
 **Backend & APIs**  
-`Django` · `Firebase` · `PostgreSQL` · `REST APIs`
-
-**AI & Data**  
-`Scikit-learn` · `Prompt Engineering` · `Data Structures & Algorithms` · `Test Driven Development`
+`Django` · `REST APIs` · `PostgreSQL` · `MongoDB` 
 
 **Other Tools**  
-`Git` · `CI/CD` · `Unit Testing` · `Agile` · `Linux` · `Unity SDK` (exploring VR)
+`Git` · `Linux` · `Docker` · `CI/CD`
 
 ---
 
-### 🧩 What I’m Building
+I believe in persistent rigor in thought, design and execution.
 
-- `magenta-mode`: A minimalist personal portfolio designed to feel like a dev space  
-- More coming soon — staying grounded, building quietly
+**Ostinato Rigore**
 
----
 
-### 📬 Let’s Connect
 
-- 📧 Email me at: [frankieokoth99@gmail.com](mailto:frankieokoth99@gmail.com)
-
----
-
-<p align="center">“Build with soul. Scale with sense.”</p>
 
 
 
