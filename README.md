@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/frankieokoth/frankieokoth/main/waneella-pixel-art.gif" width="498"/>
+  <img src="https://raw.githubusercontent.com/frankieokoth/frankieokoth/main/train.gif" width="374"/>
 </p>
 
 <br>
