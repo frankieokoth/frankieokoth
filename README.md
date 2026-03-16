@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/frankieokoth/frankieokoth/main/train.gif" width="374"/>
+  <img src="https://raw.githubusercontent.com/frankieokoth/frankieokoth/main/train.gif" width="500" height="374"/>
 </p>
 
 <br>
