@@ -4,7 +4,7 @@
 
 <br>
 
-### 🧠 About Me
+### 🧭 About Me
 
 I'm a software engineer based in Nairobi, Kenya focused on backend systems and scalable software architecture.
 
